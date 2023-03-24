@@ -1,1 +1,4 @@
-run = clock
+from Clock import Clock
+
+
+run = Clock
